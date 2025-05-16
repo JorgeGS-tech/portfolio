@@ -1,6 +1,5 @@
 # 🌐 Jorge Gutiérrez Serrano - Portfolio Web
 
-![Portfolio Screenshot](ruta/a/tu/captura.png) <!-- Opcional -->
 
 Bienvenido a mi portfolio profesional. Soy **Jorge Gutiérrez Serrano**, Analista Técnico Front-end con más de 17 años de experiencia diseñando interfaces, mejorando la experiencia de usuario y desarrollando soluciones web eficientes y atractivas.
 
@@ -24,9 +23,8 @@ Este repositorio contiene el código fuente de mi web personal, donde encontrar�
 
 ## 🔗 Enlaces
 
-- [Web en vivo](https://jorgegs-tech.github.io/) <!-- cambia esto si el nombre del repo es diferente -->
+- [Web en vivo](https://jorgegs-tech.github.io/portfolio) <!-- cambia esto si el nombre del repo es diferente -->
 - [LinkedIn](https://www.linkedin.com/in/jorgegutierrezserrano/)
-- [Email](mailto:tuemail@ejemplo.com)
 
 ---
 
